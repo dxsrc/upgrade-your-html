@@ -1,7 +1,7 @@
 {sample: true}
 # Intro
 
-HTML is the backbone of the Web. We can build a website without JavaScript, even without CSS, but without HTML—_any_ HTML—, no, we can’t.
+HTML is the backbone of the Web. We can build a website without JavaScript, even without CSS, but without HTML—_any_ HTML—no, we can’t.
 
 HTML is so important, yet so easy. Everyone writes HTML, and everyone says they can write HTML. They don’t just mean they’re able to write HTML, but that they write _good_ HTML, where “good” means “high quality.”
 
